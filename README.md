@@ -1,7 +1,7 @@
 
 ## Download the rules
 ```
-cd /etc/ && git clone https://github.com/ChrisTitusTech/firewallsetup.git
+cd /etc/ && git clone https://github.com/petronijevicm/iptables-Firewall-setup
 ````
 ## Make the Rules Permenant
 ### Debian
